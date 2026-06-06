@@ -1,3 +1,4 @@
+<h1>Hii👋 I,m Shan Chakraborty</h1>
 # 💫 About Me:
 📡 I’m currently working on<br>→ Learning HTML, Python and basic programming projects<br><br>🤝 I’m looking to collaborate on<br>→ Beginner-friendly coding projects and web development practice<br><br>🧠 I’m looking for help with<br>→ Improving coding skills, problem solving and project building<br><br>🌱 I’m currently learning<br>→ HTML, Python, Digital Electronics and basic software development<br><br>💬 Ask me about<br>→ Coding basics, study tips, or beginner programming help<br><br>⚡ Fun fact<br>→ I enjoy learning new tech skills step by step and practicing on my computer<br>
 
